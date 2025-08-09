@@ -1,4 +1,4 @@
-# BreezeFlow
+# BreezeMind Pro
 
 All-in-one productivity management platform that helps you organize your life with intelligent task management, calendar synchronization, bill payments, and more.
 
